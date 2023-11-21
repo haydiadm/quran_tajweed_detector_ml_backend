@@ -1,0 +1,2187 @@
+{
+  "annotations": [
+    {
+      "id": 790,
+      "annotations": [
+        {
+          "id": 177,
+          "completed_by": 2,
+          "result": [
+            {
+              "original_length": 3.317551,
+              "value": {
+                "start": 0.8275649197802198,
+                "end": 1.1994222846153846,
+                "channel": 0,
+                "labels": [
+                  "Idgham"
+                ]
+              },
+              "id": "uaaQi",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.317551,
+              "value": {
+                "start": 0.8275649197802198,
+                "end": 1.1994222846153846,
+                "channel": 0,
+                "text": [
+                  "Idgham"
+                ]
+              },
+              "id": "uaaQi",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.317551,
+              "value": {
+                "start": 0.8056909571428571,
+                "end": 1.2395245494505494,
+                "channel": 0,
+                "labels": [
+                  "Mad jaiz"
+                ]
+              },
+              "id": "Yb6O1",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.317551,
+              "value": {
+                "start": 0.8056909571428571,
+                "end": 1.2395245494505494,
+                "channel": 0,
+                "text": [
+                  "Mad jaiz"
+                ]
+              },
+              "id": "Yb6O1",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.317551,
+              "value": {
+                "start": 1.4436815340659337,
+                "end": 1.8046019175824175,
+                "channel": 0,
+                "labels": [
+                  "Idgham"
+                ]
+              },
+              "id": "dbqiz",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.317551,
+              "value": {
+                "start": 1.4436815340659337,
+                "end": 1.8046019175824175,
+                "channel": 0,
+                "text": [
+                  "Idgham"
+                ]
+              },
+              "id": "dbqiz",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.317551,
+              "value": {
+                "start": 2.712371367032967,
+                "end": 2.9566306164835168,
+                "channel": 0,
+                "labels": [
+                  "Tfakhim"
+                ]
+              },
+              "id": "yP5Ei",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.317551,
+              "value": {
+                "start": 2.712371367032967,
+                "end": 2.9566306164835168,
+                "channel": 0,
+                "text": [
+                  "Tfakhim"
+                ]
+              },
+              "id": "yP5Ei",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            }
+          ],
+          "was_cancelled": false,
+          "ground_truth": false,
+          "created_at": "2023-11-02T07:03:14.772878Z",
+          "updated_at": "2023-11-02T07:05:03.653989Z",
+          "draft_created_at": "2023-11-02T07:03:13.040176Z",
+          "lead_time": 150.836,
+          "prediction": {},
+          "result_count": 0,
+          "unique_id": "85b82df3-7236-4691-8c3e-c129d20c8e5d",
+          "import_id": null,
+          "last_action": null,
+          "task": 790,
+          "project": 66,
+          "updated_by": 2,
+          "parent_prediction": null,
+          "parent_annotation": null,
+          "last_created_by": null
+        }
+      ],
+      "file_upload": "656afc13-102001_01.wav",
+      "drafts": [],
+      "predictions": [],
+      "data": {
+        "audio": "/data/upload/66/656afc13-102001_01.wav"
+      },
+      "meta": {},
+      "created_at": "2023-11-02T06:57:55.915497Z",
+      "updated_at": "2023-11-02T07:05:03.703214Z",
+      "inner_id": 1,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 0,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 66,
+      "updated_by": 2,
+      "comment_authors": []
+    },
+    {
+      "id": 791,
+      "annotations": [
+        {
+          "id": 280,
+          "completed_by": 3,
+          "result": [
+            {
+              "original_length": 2.639433,
+              "value": {
+                "start": 0.32610755212355214,
+                "end": 0.747329806949807,
+                "channel": 0,
+                "labels": [
+                  "Mad jaiz"
+                ]
+              },
+              "id": "6Y1rS",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.639433,
+              "value": {
+                "start": 0.32610755212355214,
+                "end": 0.747329806949807,
+                "channel": 0,
+                "text": [
+                  "mad jaiz"
+                ]
+              },
+              "id": "6Y1rS",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.639433,
+              "value": {
+                "start": 1.1006129884169884,
+                "end": 1.4572931235521234,
+                "channel": 0,
+                "labels": [
+                  "Idgham"
+                ]
+              },
+              "id": "Ewg_w",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.639433,
+              "value": {
+                "start": 1.1006129884169884,
+                "end": 1.4572931235521234,
+                "channel": 0,
+                "text": [
+                  "idgham"
+                ]
+              },
+              "id": "Ewg_w",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.639433,
+              "value": {
+                "start": 1.9158818687258687,
+                "end": 2.282752864864865,
+                "channel": 0,
+                "labels": [
+                  "Tfakhim"
+                ]
+              },
+              "id": "_-_cA",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.639433,
+              "value": {
+                "start": 1.9158818687258687,
+                "end": 2.282752864864865,
+                "channel": 0,
+                "text": [
+                  "tfakhim"
+                ]
+              },
+              "id": "_-_cA",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            }
+          ],
+          "was_cancelled": false,
+          "ground_truth": false,
+          "created_at": "2023-11-02T21:08:07.543064Z",
+          "updated_at": "2023-11-02T21:27:40.745409Z",
+          "draft_created_at": "2023-11-02T21:08:02.300861Z",
+          "lead_time": 101.056,
+          "prediction": {},
+          "result_count": 0,
+          "unique_id": "bea1a7c1-ec58-4fe0-a64c-57cef192767e",
+          "import_id": null,
+          "last_action": null,
+          "task": 791,
+          "project": 66,
+          "updated_by": 3,
+          "parent_prediction": null,
+          "parent_annotation": null,
+          "last_created_by": null
+        }
+      ],
+      "file_upload": "44195076-102001_02.wav",
+      "drafts": [],
+      "predictions": [],
+      "data": {
+        "audio": "/data/upload/66/44195076-102001_02.wav"
+      },
+      "meta": {},
+      "created_at": "2023-11-02T06:57:55.915618Z",
+      "updated_at": "2023-11-02T21:27:40.795559Z",
+      "inner_id": 2,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 0,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 66,
+      "updated_by": 3,
+      "comment_authors": []
+    },
+    {
+      "id": 792,
+      "annotations": [
+        {
+          "id": 281,
+          "completed_by": 3,
+          "result": [
+            {
+              "original_length": 3.500045,
+              "value": {
+                "start": 0.5315383655083655,
+                "end": 1.11713148005148,
+                "channel": 0,
+                "labels": [
+                  "Mad jaiz"
+                ]
+              },
+              "id": "RHPrA",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.500045,
+              "value": {
+                "start": 0.5315383655083655,
+                "end": 1.11713148005148,
+                "channel": 0,
+                "text": [
+                  "mad jaiz"
+                ]
+              },
+              "id": "RHPrA",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.500045,
+              "value": {
+                "start": 1.4865055984555984,
+                "end": 2.058585025740026,
+                "channel": 0,
+                "labels": [
+                  "Idgham"
+                ]
+              },
+              "id": "P8L_M",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.500045,
+              "value": {
+                "start": 1.4865055984555984,
+                "end": 2.058585025740026,
+                "channel": 0,
+                "text": [
+                  "idgham"
+                ]
+              },
+              "id": "P8L_M",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.500045,
+              "value": {
+                "start": 2.7928287001287,
+                "end": 3.261303191763192,
+                "channel": 0,
+                "labels": [
+                  "Tfakhim"
+                ]
+              },
+              "id": "cTw48",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.500045,
+              "value": {
+                "start": 2.7928287001287,
+                "end": 3.261303191763192,
+                "channel": 0,
+                "text": [
+                  "tfakhim"
+                ]
+              },
+              "id": "cTw48",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            }
+          ],
+          "was_cancelled": false,
+          "ground_truth": false,
+          "created_at": "2023-11-02T21:08:48.093427Z",
+          "updated_at": "2023-11-02T21:28:18.243895Z",
+          "draft_created_at": "2023-11-02T21:08:42.678058Z",
+          "lead_time": 110.02799999999999,
+          "prediction": {},
+          "result_count": 0,
+          "unique_id": "3968c0fa-9f03-4884-8507-d8a630f55a86",
+          "import_id": null,
+          "last_action": null,
+          "task": 792,
+          "project": 66,
+          "updated_by": 3,
+          "parent_prediction": null,
+          "parent_annotation": null,
+          "last_created_by": null
+        }
+      ],
+      "file_upload": "9d1c4831-102001_03.wav",
+      "drafts": [],
+      "predictions": [],
+      "data": {
+        "audio": "/data/upload/66/9d1c4831-102001_03.wav"
+      },
+      "meta": {},
+      "created_at": "2023-11-02T06:57:55.915702Z",
+      "updated_at": "2023-11-02T21:28:18.292453Z",
+      "inner_id": 3,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 0,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 66,
+      "updated_by": 3,
+      "comment_authors": []
+    },
+    {
+      "id": 793,
+      "annotations": [
+        {
+          "id": 282,
+          "completed_by": 3,
+          "result": [
+            {
+              "original_length": 2.847347,
+              "value": {
+                "start": 0.4177574749034749,
+                "end": 0.9454511274131274,
+                "channel": 0,
+                "labels": [
+                  "Mad jaiz"
+                ]
+              },
+              "id": "8yhps",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.847347,
+              "value": {
+                "start": 0.4177574749034749,
+                "end": 0.9454511274131274,
+                "channel": 0,
+                "text": [
+                  "mad jaiz"
+                ]
+              },
+              "id": "8yhps",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.847347,
+              "value": {
+                "start": 1.3742022200772201,
+                "end": 1.850592323037323,
+                "channel": 0,
+                "labels": [
+                  "Idgham"
+                ]
+              },
+              "id": "g_AvY",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.847347,
+              "value": {
+                "start": 1.3742022200772201,
+                "end": 1.850592323037323,
+                "channel": 0,
+                "text": [
+                  "idgham"
+                ]
+              },
+              "id": "g_AvY",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.847347,
+              "value": {
+                "start": 2.1290973063063063,
+                "end": 2.5321966241956244,
+                "channel": 0,
+                "labels": [
+                  "Tfakhim"
+                ]
+              },
+              "id": "7Z6Sx",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.847347,
+              "value": {
+                "start": 2.1290973063063063,
+                "end": 2.5321966241956244,
+                "channel": 0,
+                "text": [
+                  "tfakhim"
+                ]
+              },
+              "id": "7Z6Sx",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            }
+          ],
+          "was_cancelled": false,
+          "ground_truth": false,
+          "created_at": "2023-11-02T21:09:28.188246Z",
+          "updated_at": "2023-11-02T21:33:19.860480Z",
+          "draft_created_at": "2023-11-02T21:09:23.460799Z",
+          "lead_time": 76.357,
+          "prediction": {},
+          "result_count": 0,
+          "unique_id": "577da07d-312b-481a-b656-a599c2f32a25",
+          "import_id": null,
+          "last_action": null,
+          "task": 793,
+          "project": 66,
+          "updated_by": 3,
+          "parent_prediction": null,
+          "parent_annotation": null,
+          "last_created_by": null
+        }
+      ],
+      "file_upload": "90200bbd-102001_04.wav",
+      "drafts": [],
+      "predictions": [],
+      "data": {
+        "audio": "/data/upload/66/90200bbd-102001_04.wav"
+      },
+      "meta": {},
+      "created_at": "2023-11-02T06:57:55.915781Z",
+      "updated_at": "2023-11-02T21:33:19.911612Z",
+      "inner_id": 4,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 0,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 66,
+      "updated_by": 3,
+      "comment_authors": []
+    },
+    {
+      "id": 794,
+      "annotations": [
+        {
+          "id": 283,
+          "completed_by": 3,
+          "result": [
+            {
+              "original_length": 2.58576,
+              "value": {
+                "start": 0.3427712741312742,
+                "end": 0.9184938996138995,
+                "channel": 0,
+                "labels": [
+                  "Mad jaiz"
+                ]
+              },
+              "id": "x0F3E",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.58576,
+              "value": {
+                "start": 0.3427712741312742,
+                "end": 0.9184938996138995,
+                "channel": 0,
+                "text": [
+                  "mad jaiz"
+                ]
+              },
+              "id": "x0F3E",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.58576,
+              "value": {
+                "start": 1.2379700386100387,
+                "end": 1.7038727413127412,
+                "channel": 0,
+                "labels": [
+                  "Idgham"
+                ]
+              },
+              "id": "c7Vgu",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.58576,
+              "value": {
+                "start": 1.2379700386100387,
+                "end": 1.7038727413127412,
+                "channel": 0,
+                "text": [
+                  "idgham"
+                ]
+              },
+              "id": "c7Vgu",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.58576,
+              "value": {
+                "start": 2.203054208494209,
+                "end": 2.519202471042471,
+                "channel": 0,
+                "labels": [
+                  "Tfakhim"
+                ]
+              },
+              "id": "oX4G8",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.58576,
+              "value": {
+                "start": 2.203054208494209,
+                "end": 2.519202471042471,
+                "channel": 0,
+                "text": [
+                  "tfakhim"
+                ]
+              },
+              "id": "oX4G8",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            }
+          ],
+          "was_cancelled": false,
+          "ground_truth": false,
+          "created_at": "2023-11-02T21:10:22.768164Z",
+          "updated_at": "2023-11-02T21:33:54.214965Z",
+          "draft_created_at": "2023-11-02T21:10:14.753389Z",
+          "lead_time": 113.188,
+          "prediction": {},
+          "result_count": 0,
+          "unique_id": "15acd015-cac2-429e-a67d-4eb187b632e7",
+          "import_id": null,
+          "last_action": null,
+          "task": 794,
+          "project": 66,
+          "updated_by": 3,
+          "parent_prediction": null,
+          "parent_annotation": null,
+          "last_created_by": null
+        }
+      ],
+      "file_upload": "bac85c22-102001_05.wav",
+      "drafts": [],
+      "predictions": [],
+      "data": {
+        "audio": "/data/upload/66/bac85c22-102001_05.wav"
+      },
+      "meta": {},
+      "created_at": "2023-11-02T06:57:55.915859Z",
+      "updated_at": "2023-11-02T21:33:54.263880Z",
+      "inner_id": 5,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 0,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 66,
+      "updated_by": 3,
+      "comment_authors": []
+    },
+    {
+      "id": 795,
+      "annotations": [
+        {
+          "id": 284,
+          "completed_by": 3,
+          "result": [
+            {
+              "original_length": 2.612245,
+              "value": {
+                "start": 0.42024533462033464,
+                "end": 0.9178158108108109,
+                "channel": 0,
+                "labels": [
+                  "Mad jaiz"
+                ]
+              },
+              "id": "E11MY",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.612245,
+              "value": {
+                "start": 0.42024533462033464,
+                "end": 0.9178158108108109,
+                "channel": 0,
+                "text": [
+                  "mad jaiz"
+                ]
+              },
+              "id": "E11MY",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.612245,
+              "value": {
+                "start": 1.2237544144144143,
+                "end": 1.6271899356499357,
+                "channel": 0,
+                "labels": [
+                  "Idgham"
+                ]
+              },
+              "id": "pcGo3",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.612245,
+              "value": {
+                "start": 1.2237544144144143,
+                "end": 1.6271899356499357,
+                "channel": 0,
+                "text": [
+                  "idgham"
+                ]
+              },
+              "id": "pcGo3",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.612245,
+              "value": {
+                "start": 2.2525149935649935,
+                "end": 2.5987971492921496,
+                "channel": 0,
+                "labels": [
+                  "Tfakhim"
+                ]
+              },
+              "id": "XrdZL",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.612245,
+              "value": {
+                "start": 2.2525149935649935,
+                "end": 2.5987971492921496,
+                "channel": 0,
+                "text": [
+                  "tfakhim"
+                ]
+              },
+              "id": "XrdZL",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            }
+          ],
+          "was_cancelled": false,
+          "ground_truth": false,
+          "created_at": "2023-11-02T21:11:14.485384Z",
+          "updated_at": "2023-11-02T21:34:38.146429Z",
+          "draft_created_at": "2023-11-02T21:11:03.998320Z",
+          "lead_time": 109.09900000000002,
+          "prediction": {},
+          "result_count": 0,
+          "unique_id": "708159f2-69f5-4366-84aa-746c877cfc4e",
+          "import_id": null,
+          "last_action": null,
+          "task": 795,
+          "project": 66,
+          "updated_by": 3,
+          "parent_prediction": null,
+          "parent_annotation": null,
+          "last_created_by": null
+        }
+      ],
+      "file_upload": "269e4366-102001_06.wav",
+      "drafts": [],
+      "predictions": [],
+      "data": {
+        "audio": "/data/upload/66/269e4366-102001_06.wav"
+      },
+      "meta": {},
+      "created_at": "2023-11-02T06:57:55.915936Z",
+      "updated_at": "2023-11-02T21:34:38.194962Z",
+      "inner_id": 6,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 0,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 66,
+      "updated_by": 3,
+      "comment_authors": []
+    },
+    {
+      "id": 796,
+      "annotations": [
+        {
+          "id": 285,
+          "completed_by": 3,
+          "result": [
+            {
+              "original_length": 7.758367,
+              "value": {
+                "start": 1.018472888030888,
+                "end": 1.8072901248391249,
+                "channel": 0,
+                "labels": [
+                  "Mad jaiz"
+                ]
+              },
+              "id": "ue3PY",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 7.758367,
+              "value": {
+                "start": 1.018472888030888,
+                "end": 1.8072901248391249,
+                "channel": 0,
+                "text": [
+                  "mad jaiz"
+                ]
+              },
+              "id": "ue3PY",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 7.758367,
+              "value": {
+                "start": 1.9171254362934362,
+                "end": 2.6360474749034752,
+                "channel": 0,
+                "labels": [
+                  "Idgham"
+                ]
+              },
+              "id": "GiZxv",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 7.758367,
+              "value": {
+                "start": 1.9171254362934362,
+                "end": 2.6360474749034752,
+                "channel": 0,
+                "text": [
+                  "idgham"
+                ]
+              },
+              "id": "GiZxv",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 7.758367,
+              "value": {
+                "start": 3.085373749034749,
+                "end": 3.9141310990990985,
+                "channel": 0,
+                "labels": [
+                  "Tfakhim"
+                ]
+              },
+              "id": "ke-aN",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 7.758367,
+              "value": {
+                "start": 3.085373749034749,
+                "end": 3.9141310990990985,
+                "channel": 0,
+                "text": [
+                  "tfakhim"
+                ]
+              },
+              "id": "ke-aN",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            }
+          ],
+          "was_cancelled": false,
+          "ground_truth": false,
+          "created_at": "2023-11-02T21:11:52.296245Z",
+          "updated_at": "2023-11-02T21:35:40.024545Z",
+          "draft_created_at": "2023-11-02T21:11:47.327930Z",
+          "lead_time": 133.7,
+          "prediction": {},
+          "result_count": 0,
+          "unique_id": "5fb0547a-b99a-4ea3-ab89-e4de5f00d932",
+          "import_id": null,
+          "last_action": null,
+          "task": 796,
+          "project": 66,
+          "updated_by": 3,
+          "parent_prediction": null,
+          "parent_annotation": null,
+          "last_created_by": null
+        }
+      ],
+      "file_upload": "ebee5f14-102001_07.wav",
+      "drafts": [],
+      "predictions": [],
+      "data": {
+        "audio": "/data/upload/66/ebee5f14-102001_07.wav"
+      },
+      "meta": {},
+      "created_at": "2023-11-02T06:57:55.916013Z",
+      "updated_at": "2023-11-02T21:35:40.076590Z",
+      "inner_id": 7,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 0,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 66,
+      "updated_by": 3,
+      "comment_authors": []
+    },
+    {
+      "id": 797,
+      "annotations": [
+        {
+          "id": 286,
+          "completed_by": 3,
+          "result": [
+            {
+              "original_length": 4.859841,
+              "value": {
+                "start": 2.558140243243243,
+                "end": 3.077273837837838,
+                "channel": 0,
+                "labels": [
+                  "Mad jaiz"
+                ]
+              },
+              "id": "4w7qd",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 4.859841,
+              "value": {
+                "start": 2.558140243243243,
+                "end": 3.077273837837838,
+                "channel": 0,
+                "text": [
+                  "mad jaiz"
+                ]
+              },
+              "id": "4w7qd",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 4.859841,
+              "value": {
+                "start": 3.214875513513514,
+                "end": 3.7152452432432437,
+                "channel": 0,
+                "labels": [
+                  "Idgham"
+                ]
+              },
+              "id": "5HjWI",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 4.859841,
+              "value": {
+                "start": 3.214875513513514,
+                "end": 3.7152452432432437,
+                "channel": 0,
+                "text": [
+                  "idgham"
+                ]
+              },
+              "id": "5HjWI",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 4.859841,
+              "value": {
+                "start": 4.178087243243244,
+                "end": 4.578383027027027,
+                "channel": 0,
+                "labels": [
+                  "Tfakhim"
+                ]
+              },
+              "id": "X6gO9",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 4.859841,
+              "value": {
+                "start": 4.178087243243244,
+                "end": 4.578383027027027,
+                "channel": 0,
+                "text": [
+                  "tfakhim"
+                ]
+              },
+              "id": "X6gO9",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            }
+          ],
+          "was_cancelled": false,
+          "ground_truth": false,
+          "created_at": "2023-11-02T21:12:50.850211Z",
+          "updated_at": "2023-11-02T21:36:33.563771Z",
+          "draft_created_at": "2023-11-02T21:12:41.584880Z",
+          "lead_time": 135.549,
+          "prediction": {},
+          "result_count": 0,
+          "unique_id": "772e8fd3-30d5-4cd1-8d77-462ed5e8966b",
+          "import_id": null,
+          "last_action": null,
+          "task": 797,
+          "project": 66,
+          "updated_by": 3,
+          "parent_prediction": null,
+          "parent_annotation": null,
+          "last_created_by": null
+        }
+      ],
+      "file_upload": "fdc347b2-102001_08.wav",
+      "drafts": [],
+      "predictions": [],
+      "data": {
+        "audio": "/data/upload/66/fdc347b2-102001_08.wav"
+      },
+      "meta": {},
+      "created_at": "2023-11-02T06:57:55.916091Z",
+      "updated_at": "2023-11-02T21:36:33.621599Z",
+      "inner_id": 8,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 0,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 66,
+      "updated_by": 3,
+      "comment_authors": []
+    },
+    {
+      "id": 798,
+      "annotations": [
+        {
+          "id": 287,
+          "completed_by": 3,
+          "result": [
+            {
+              "original_length": 3.395918,
+              "value": {
+                "start": 0.7255114388674389,
+                "end": 1.2499775392535393,
+                "channel": 0,
+                "labels": [
+                  "Mad jaiz"
+                ]
+              },
+              "id": "ZozE-",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.395918,
+              "value": {
+                "start": 0.7255114388674389,
+                "end": 1.2499775392535393,
+                "channel": 0,
+                "text": [
+                  "mad jaiz"
+                ]
+              },
+              "id": "ZozE-",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.395918,
+              "value": {
+                "start": 1.5908805045045045,
+                "end": 2.1809048674388674,
+                "channel": 0,
+                "labels": [
+                  "Idgham"
+                ]
+              },
+              "id": "Cj5e0",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.395918,
+              "value": {
+                "start": 1.5908805045045045,
+                "end": 2.1809048674388674,
+                "channel": 0,
+                "text": [
+                  "idgham"
+                ]
+              },
+              "id": "Cj5e0",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.395918,
+              "value": {
+                "start": 2.8495991454311453,
+                "end": 3.212354864864865,
+                "channel": 0,
+                "labels": [
+                  "Tfakhim"
+                ]
+              },
+              "id": "eUvmw",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.395918,
+              "value": {
+                "start": 2.8495991454311453,
+                "end": 3.212354864864865,
+                "channel": 0,
+                "text": [
+                  "tfakhim"
+                ]
+              },
+              "id": "eUvmw",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            }
+          ],
+          "was_cancelled": false,
+          "ground_truth": false,
+          "created_at": "2023-11-02T21:13:58.027176Z",
+          "updated_at": "2023-11-02T21:37:08.583212Z",
+          "draft_created_at": "2023-11-02T21:13:49.004725Z",
+          "lead_time": 102.38799999999999,
+          "prediction": {},
+          "result_count": 0,
+          "unique_id": "d4ee8df6-85c7-48af-950c-c1926b3cae99",
+          "import_id": null,
+          "last_action": null,
+          "task": 798,
+          "project": 66,
+          "updated_by": 3,
+          "parent_prediction": null,
+          "parent_annotation": null,
+          "last_created_by": null
+        }
+      ],
+      "file_upload": "48732362-102001_09.wav",
+      "drafts": [],
+      "predictions": [],
+      "data": {
+        "audio": "/data/upload/66/48732362-102001_09.wav"
+      },
+      "meta": {},
+      "created_at": "2023-11-02T06:57:55.916169Z",
+      "updated_at": "2023-11-02T21:37:08.635319Z",
+      "inner_id": 9,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 0,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 66,
+      "updated_by": 3,
+      "comment_authors": []
+    },
+    {
+      "id": 799,
+      "annotations": [
+        {
+          "id": 288,
+          "completed_by": 3,
+          "result": [
+            {
+              "original_length": 3.422041,
+              "value": {
+                "start": 0.4139920900900901,
+                "end": 1.057001081081081,
+                "channel": 0,
+                "labels": [
+                  "Mad jaiz"
+                ]
+              },
+              "id": "NnGFe",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.422041,
+              "value": {
+                "start": 0.4139920900900901,
+                "end": 1.057001081081081,
+                "channel": 0,
+                "text": [
+                  "mad jaiz"
+                ]
+              },
+              "id": "NnGFe",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.422041,
+              "value": {
+                "start": 1.2463804414414414,
+                "end": 1.8937936036036036,
+                "channel": 0,
+                "labels": [
+                  "Idgham"
+                ]
+              },
+              "id": "9VPTP",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.422041,
+              "value": {
+                "start": 1.2463804414414414,
+                "end": 1.8937936036036036,
+                "channel": 0,
+                "text": [
+                  "idgham"
+                ]
+              },
+              "id": "9VPTP",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.422041,
+              "value": {
+                "start": 2.466335855855856,
+                "end": 2.9375821711711714,
+                "channel": 0,
+                "labels": [
+                  "Tfakhim"
+                ]
+              },
+              "id": "ZDj2e",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.422041,
+              "value": {
+                "start": 2.466335855855856,
+                "end": 2.9375821711711714,
+                "channel": 0,
+                "text": [
+                  "tfakhim"
+                ]
+              },
+              "id": "ZDj2e",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            }
+          ],
+          "was_cancelled": false,
+          "ground_truth": false,
+          "created_at": "2023-11-02T21:14:38.591499Z",
+          "updated_at": "2023-11-02T21:37:42.439221Z",
+          "draft_created_at": "2023-11-02T21:14:26.940332Z",
+          "lead_time": 89.457,
+          "prediction": {},
+          "result_count": 0,
+          "unique_id": "38768b83-cf11-46ce-8fa7-56e44048b04a",
+          "import_id": null,
+          "last_action": null,
+          "task": 799,
+          "project": 66,
+          "updated_by": 3,
+          "parent_prediction": null,
+          "parent_annotation": null,
+          "last_created_by": null
+        }
+      ],
+      "file_upload": "19c6007a-102001_10.wav",
+      "drafts": [],
+      "predictions": [],
+      "data": {
+        "audio": "/data/upload/66/19c6007a-102001_10.wav"
+      },
+      "meta": {},
+      "created_at": "2023-11-02T06:57:55.916246Z",
+      "updated_at": "2023-11-02T21:37:42.486782Z",
+      "inner_id": 10,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 0,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 66,
+      "updated_by": 3,
+      "comment_authors": []
+    },
+    {
+      "id": 800,
+      "annotations": [
+        {
+          "id": 289,
+          "completed_by": 3,
+          "result": [
+            {
+              "original_length": 6.373878,
+              "value": {
+                "start": 0.5496136756756757,
+                "end": 1.2879007027027027,
+                "channel": 0,
+                "labels": [
+                  "Mad jaiz"
+                ]
+              },
+              "id": "xg0yb",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 6.373878,
+              "value": {
+                "start": 0.5496136756756757,
+                "end": 1.2879007027027027,
+                "channel": 0,
+                "text": [
+                  "mad jaiz"
+                ]
+              },
+              "id": "xg0yb",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 6.373878,
+              "value": {
+                "start": 1.345323027027027,
+                "end": 1.903139891891892,
+                "channel": 0,
+                "labels": [
+                  "Idgham"
+                ]
+              },
+              "id": "sP5e-",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 6.373878,
+              "value": {
+                "start": 1.345323027027027,
+                "end": 1.903139891891892,
+                "channel": 0,
+                "text": [
+                  "idgham"
+                ]
+              },
+              "id": "sP5e-",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 6.373878,
+              "value": {
+                "start": 2.116422810810811,
+                "end": 2.7972875135135133,
+                "channel": 0,
+                "labels": [
+                  "Tfakhim"
+                ]
+              },
+              "id": "Lmpab",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 6.373878,
+              "value": {
+                "start": 2.116422810810811,
+                "end": 2.7972875135135133,
+                "channel": 0,
+                "text": [
+                  "tfakhim"
+                ]
+              },
+              "id": "Lmpab",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            }
+          ],
+          "was_cancelled": false,
+          "ground_truth": false,
+          "created_at": "2023-11-02T21:15:18.728735Z",
+          "updated_at": "2023-11-02T21:38:35.647828Z",
+          "draft_created_at": "2023-11-02T21:15:12.981914Z",
+          "lead_time": 99.087,
+          "prediction": {},
+          "result_count": 0,
+          "unique_id": "043f688a-3a48-4e3f-a98e-1954e2efa7f3",
+          "import_id": null,
+          "last_action": null,
+          "task": 800,
+          "project": 66,
+          "updated_by": 3,
+          "parent_prediction": null,
+          "parent_annotation": null,
+          "last_created_by": null
+        }
+      ],
+      "file_upload": "38ec0a6d-102001_11.wav",
+      "drafts": [],
+      "predictions": [],
+      "data": {
+        "audio": "/data/upload/66/38ec0a6d-102001_11.wav"
+      },
+      "meta": {},
+      "created_at": "2023-11-02T06:57:55.916326Z",
+      "updated_at": "2023-11-02T21:38:35.697285Z",
+      "inner_id": 11,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 0,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 66,
+      "updated_by": 3,
+      "comment_authors": []
+    },
+    {
+      "id": 801,
+      "annotations": [
+        {
+          "id": 290,
+          "completed_by": 3,
+          "result": [
+            {
+              "original_length": 2.873469,
+              "value": {
+                "start": 0.6730648108108108,
+                "end": 1.2351848725868726,
+                "channel": 0,
+                "labels": [
+                  "Mad jaiz"
+                ]
+              },
+              "id": "VAopM",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.873469,
+              "value": {
+                "start": 0.6730648108108108,
+                "end": 1.2351848725868726,
+                "channel": 0,
+                "text": [
+                  "mad jaiz"
+                ]
+              },
+              "id": "VAopM",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.873469,
+              "value": {
+                "start": 1.5680191196911195,
+                "end": 2.0709686486486487,
+                "channel": 0,
+                "labels": [
+                  "Idgham"
+                ]
+              },
+              "id": "iBbrT",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.873469,
+              "value": {
+                "start": 1.5680191196911195,
+                "end": 2.0709686486486487,
+                "channel": 0,
+                "text": [
+                  "idgham"
+                ]
+              },
+              "id": "iBbrT",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.873469,
+              "value": {
+                "start": 2.529540277992278,
+                "end": 2.795807675675676,
+                "channel": 0,
+                "labels": [
+                  "Tfakhim"
+                ]
+              },
+              "id": "8cZFl",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.873469,
+              "value": {
+                "start": 2.529540277992278,
+                "end": 2.795807675675676,
+                "channel": 0,
+                "text": [
+                  "tfakhim"
+                ]
+              },
+              "id": "8cZFl",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            }
+          ],
+          "was_cancelled": false,
+          "ground_truth": false,
+          "created_at": "2023-11-02T21:15:53.318511Z",
+          "updated_at": "2023-11-02T21:39:11.576392Z",
+          "draft_created_at": "2023-11-02T21:15:46.560061Z",
+          "lead_time": 82.87,
+          "prediction": {},
+          "result_count": 0,
+          "unique_id": "1c740382-60d8-4c18-bab6-064703924a60",
+          "import_id": null,
+          "last_action": null,
+          "task": 801,
+          "project": 66,
+          "updated_by": 3,
+          "parent_prediction": null,
+          "parent_annotation": null,
+          "last_created_by": null
+        }
+      ],
+      "file_upload": "8b676f44-102001_12.wav",
+      "drafts": [],
+      "predictions": [],
+      "data": {
+        "audio": "/data/upload/66/8b676f44-102001_12.wav"
+      },
+      "meta": {},
+      "created_at": "2023-11-02T06:57:55.916406Z",
+      "updated_at": "2023-11-02T21:39:11.625546Z",
+      "inner_id": 12,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 0,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 66,
+      "updated_by": 3,
+      "comment_authors": []
+    },
+    {
+      "id": 802,
+      "annotations": [
+        {
+          "id": 291,
+          "completed_by": 3,
+          "result": [
+            {
+              "original_length": 2.246531,
+              "value": {
+                "start": 0.2949114054054054,
+                "end": 0.6823440360360361,
+                "channel": 0,
+                "labels": [
+                  "Mad jaiz"
+                ]
+              },
+              "id": "WlFxk",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.246531,
+              "value": {
+                "start": 0.2949114054054054,
+                "end": 0.6823440360360361,
+                "channel": 0,
+                "text": [
+                  "mad jaiz"
+                ]
+              },
+              "id": "WlFxk",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.246531,
+              "value": {
+                "start": 0.9946031711711713,
+                "end": 1.4514267207207208,
+                "channel": 0,
+                "labels": [
+                  "Idgham"
+                ]
+              },
+              "id": "2rkBS",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.246531,
+              "value": {
+                "start": 0.9946031711711713,
+                "end": 1.4514267207207208,
+                "channel": 0,
+                "text": [
+                  "idgham"
+                ]
+              },
+              "id": "2rkBS",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.246531,
+              "value": {
+                "start": 1.835968063063063,
+                "end": 2.154009774774775,
+                "channel": 0,
+                "labels": [
+                  "Tfakhim"
+                ]
+              },
+              "id": "2Dku7",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.246531,
+              "value": {
+                "start": 1.835968063063063,
+                "end": 2.154009774774775,
+                "channel": 0,
+                "text": [
+                  "tfakhim"
+                ]
+              },
+              "id": "2Dku7",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            }
+          ],
+          "was_cancelled": false,
+          "ground_truth": false,
+          "created_at": "2023-11-02T21:16:21.925705Z",
+          "updated_at": "2023-11-02T21:39:38.355646Z",
+          "draft_created_at": "2023-11-02T21:16:17.384609Z",
+          "lead_time": 67.0,
+          "prediction": {},
+          "result_count": 0,
+          "unique_id": "8356b009-988b-4e92-a2b0-553f203519ae",
+          "import_id": null,
+          "last_action": null,
+          "task": 802,
+          "project": 66,
+          "updated_by": 3,
+          "parent_prediction": null,
+          "parent_annotation": null,
+          "last_created_by": null
+        }
+      ],
+      "file_upload": "bd3c3433-102001_13.wav",
+      "drafts": [],
+      "predictions": [],
+      "data": {
+        "audio": "/data/upload/66/bd3c3433-102001_13.wav"
+      },
+      "meta": {},
+      "created_at": "2023-11-02T06:57:55.916488Z",
+      "updated_at": "2023-11-02T21:39:38.402747Z",
+      "inner_id": 13,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 0,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 66,
+      "updated_by": 3,
+      "comment_authors": []
+    },
+    {
+      "id": 803,
+      "annotations": [
+        {
+          "id": 292,
+          "completed_by": 3,
+          "result": [
+            {
+              "original_length": 2.742857,
+              "value": {
+                "start": 0.7166022792792792,
+                "end": 1.2072806872586872,
+                "channel": 0,
+                "labels": [
+                  "Mad jaiz"
+                ]
+              },
+              "id": "Ci_j1",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.742857,
+              "value": {
+                "start": 0.7166022792792792,
+                "end": 1.2072806872586872,
+                "channel": 0,
+                "text": [
+                  "mad jaiz"
+                ]
+              },
+              "id": "Ci_j1",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.742857,
+              "value": {
+                "start": 1.3520131673101672,
+                "end": 1.828571333333333,
+                "channel": 0,
+                "labels": [
+                  "Idgham"
+                ]
+              },
+              "id": "Exia1",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.742857,
+              "value": {
+                "start": 1.3520131673101672,
+                "end": 1.828571333333333,
+                "channel": 0,
+                "text": [
+                  "idgham"
+                ]
+              },
+              "id": "Exia1",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.742857,
+              "value": {
+                "start": 2.3651405276705275,
+                "end": 2.700496274131274,
+                "channel": 0,
+                "labels": [
+                  "Tfakhim"
+                ]
+              },
+              "id": "o04rz",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 2.742857,
+              "value": {
+                "start": 2.3651405276705275,
+                "end": 2.700496274131274,
+                "channel": 0,
+                "text": [
+                  "tfakhim"
+                ]
+              },
+              "id": "o04rz",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            }
+          ],
+          "was_cancelled": false,
+          "ground_truth": false,
+          "created_at": "2023-11-02T21:16:52.091992Z",
+          "updated_at": "2023-11-02T21:40:30.361441Z",
+          "draft_created_at": "2023-11-02T21:16:47.838541Z",
+          "lead_time": 90.53800000000001,
+          "prediction": {},
+          "result_count": 0,
+          "unique_id": "76b04b44-29f0-46b8-920e-0bfc77f169bf",
+          "import_id": null,
+          "last_action": null,
+          "task": 803,
+          "project": 66,
+          "updated_by": 3,
+          "parent_prediction": null,
+          "parent_annotation": null,
+          "last_created_by": null
+        }
+      ],
+      "file_upload": "d0af69b7-102001_14.wav",
+      "drafts": [],
+      "predictions": [],
+      "data": {
+        "audio": "/data/upload/66/d0af69b7-102001_14.wav"
+      },
+      "meta": {},
+      "created_at": "2023-11-02T06:57:55.916567Z",
+      "updated_at": "2023-11-02T21:40:30.410530Z",
+      "inner_id": 14,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 0,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 66,
+      "updated_by": 3,
+      "comment_authors": []
+    },
+    {
+      "id": 804,
+      "annotations": [
+        {
+          "id": 293,
+          "completed_by": 3,
+          "result": [
+            {
+              "original_length": 3.630658,
+              "value": {
+                "start": 1.1588200566280566,
+                "end": 1.8924279150579149,
+                "channel": 0,
+                "labels": [
+                  "Mad jaiz"
+                ]
+              },
+              "id": "JKrJT",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.630658,
+              "value": {
+                "start": 1.1588200566280566,
+                "end": 1.8924279150579149,
+                "channel": 0,
+                "text": [
+                  "mad jaiz"
+                ]
+              },
+              "id": "JKrJT",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.630658,
+              "value": {
+                "start": 2.0886796988416987,
+                "end": 2.714816342342342,
+                "channel": 0,
+                "labels": [
+                  "Idgham"
+                ]
+              },
+              "id": "7ew59",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.630658,
+              "value": {
+                "start": 2.0886796988416987,
+                "end": 2.714816342342342,
+                "channel": 0,
+                "text": [
+                  "idgham"
+                ]
+              },
+              "id": "7ew59",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.630658,
+              "value": {
+                "start": 2.999848694980695,
+                "end": 3.4904781544401544,
+                "channel": 0,
+                "labels": [
+                  "Tfakhim"
+                ]
+              },
+              "id": "NV43q",
+              "from_name": "labels",
+              "to_name": "audio",
+              "type": "labels",
+              "origin": "manual"
+            },
+            {
+              "original_length": 3.630658,
+              "value": {
+                "start": 2.999848694980695,
+                "end": 3.4904781544401544,
+                "channel": 0,
+                "text": [
+                  "tfakhim"
+                ]
+              },
+              "id": "NV43q",
+              "from_name": "transcription",
+              "to_name": "audio",
+              "type": "textarea",
+              "origin": "manual"
+            }
+          ],
+          "was_cancelled": false,
+          "ground_truth": false,
+          "created_at": "2023-11-02T21:17:20.889393Z",
+          "updated_at": "2023-11-02T21:41:30.540040Z",
+          "draft_created_at": "2023-11-02T21:17:16.609828Z",
+          "lead_time": 105.991,
+          "prediction": {},
+          "result_count": 0,
+          "unique_id": "2cfb5688-6a61-473a-b37b-5121014a0048",
+          "import_id": null,
+          "last_action": null,
+          "task": 804,
+          "project": 66,
+          "updated_by": 3,
+          "parent_prediction": null,
+          "parent_annotation": null,
+          "last_created_by": null
+        }
+      ],
+      "file_upload": "93465768-102001_15.wav",
+      "drafts": [],
+      "predictions": [],
+      "data": {
+        "audio": "/data/upload/66/93465768-102001_15.wav"
+      },
+      "meta": {},
+      "created_at": "2023-11-02T06:57:55.916648Z",
+      "updated_at": "2023-11-02T21:41:30.585076Z",
+      "inner_id": 15,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 0,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 66,
+      "updated_by": 3,
+      "comment_authors": []
+    }
+  ],
+  "project": "66.1698908052",
+  "label_config": "<View><Labels name=\"labels\" toName=\"audio\"><Label value=\"Madjaiz\" background=\"#FFA39E\"/><Label value=\"Idgham\" background=\"#D4380D\"/><Label value=\"Tfakhim\" background=\"#FFC069\"/></Labels><Audio name=\"audio\" value=\"$audio\"/>nn  <TextArea name=\"transcription\" toName=\"audio\" rows=\"2\" editable=\"true\" perRegion=\"true\" required=\"true\"/></View>",
+  "params": {
+    "login": null,
+    "password": null
+  }
+}
