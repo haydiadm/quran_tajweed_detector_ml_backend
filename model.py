@@ -1,3 +1,4 @@
+import uuid
 from typing import List, Dict, Optional
 from label_studio_ml.model import LabelStudioMLBase
 
@@ -35,10 +36,11 @@ class NewModel(LabelStudioMLBase):
         print(f'Old model version: {old_model_version}')
 
         # store new data to the cache
-        self.set('my_data', 'my_new_data_value')
-        self.set('model_version', 'my_new_model_version')
+        self.set('my_data', data)
+        self.set('model_version', str(uuid.uuid4()))
         print(f'New data: {self.get("my_data")}')
         print(f'New model version: {self.get("model_version")}')
+        print(type(data))
 
         print('fit() completed successfully.')
 
